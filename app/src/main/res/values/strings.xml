@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">TapPilot нажимает в выбранную точку экрана с заданным интервалом. Используйте только в одиночных играх.</string>
+</resources>
